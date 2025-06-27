@@ -20,4 +20,4 @@ npm start
 ```
 
 ## Author
-Tarun – tarundev.me@gmail.com
+Mikola – kravcovmikola56@gmail.com
